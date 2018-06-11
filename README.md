@@ -61,12 +61,6 @@ the default config is the folowing:
 $ pm2 start launch.config.js
 ```
 
-## Basic usage
-
-The drive is a browser application. To use it you need to access it via a browser (you may change the host/port corresponding to your `.config.json` file):
-
-[`http://127.0.0.1:7777/html/ifc_studio/index.html`](http://127.0.0.1:7777/html/ifc_studio/index.html)
-
 The 3 basic account are :
 
 | Username | Password                             |

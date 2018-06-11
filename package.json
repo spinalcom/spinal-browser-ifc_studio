@@ -1,6 +1,6 @@
 {
   "name": "spinal-browser-ifc_studio",
-  "version": "v1.1.4",
+  "version": "v1.0.0",
   "homepage": "https://github.com/spinalcom/spinal-browser-ifc_studio",
   "authors": ["laurent <htd.laurent@gmail.com>"],
   "bin": {
