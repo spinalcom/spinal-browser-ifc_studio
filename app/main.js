@@ -1,0 +1,28 @@
+window.$ = window.jQuery = require("jquery");
+window.angular = require("angular");
+require("angular-aria");
+require("angular-animate");
+require("angular-material");
+require("angular-route");
+require("bootstrap");
+require("angular-material-icons");
+require("jstree");
+require("angular-material-data-table");
+require("jquery-ui");
+require("d3");
+require("spectrum-colorpicker");
+require("svg-morpheus/compile/minified/svg-morpheus.js");
+
+require("./app.js");
+require("./app.config.js");
+require("./app.route.js");
+require("./directives/navbar.js");
+require("./directives/spinalInspect.js");
+require("./services/spinalCore.js");
+require("./services/spinalModelDictionary.js");
+require("./services/inspectorService.js");
+require("./services/goldenLayoutService.js");
+require("./services/authService.js");
+require("./controllers/mainCtrl.js");
+require("./controllers/navbarCtrl.js");
+require("./controllers/InspectorCtrl.js");
